@@ -1,2 +1,1 @@
-# Infinite-errors
-No
+To close, exit in CMD.
